@@ -1,3 +1,19 @@
+# ---- Private: never push. Third-party names and internal correspondence. ----
+FI-Credit-Research-Starter.xlsx
+*-tracker.xlsx
+*Starter.xlsx
+outreach*
+applications*
+D1-compliance-memo*
+*compliance-memo*
+*填写指引*
+*仅供自己看*
+policy/internal/
+compliance/
+
+# ---- Office lock/temp files ----
+~$*
+*.tmp
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

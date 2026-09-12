@@ -61,6 +61,20 @@ This: *"If Q4 Stage 2 balances rise more than 15% quarter on quarter, or managem
 - Source: [Issuer] Pillar 3 Report, Q_ 20__ , p. __
 - Source: [Issuer] Annual Report 20__ , p. __
 
+## 8. Investment Conclusion
+
+*Required. Written last, and never longer than the two lines below.*
+
+> **[BUY / ADD / HOLD / TRIM / SELL / AVOID] — [Issuer] [Instrument] at [current level]. Target [level] within [N] months. Size [X]% of portfolio.**
+>
+> **Wrong if:** [the single most observable falsifier, and the date it can next be checked].
+
+Section 5 lists everything that could break the thesis. This names the **one** condition that breaks it first and is easiest to observe — the one worth setting a calendar reminder for.
+
+Every field here maps one-to-one onto a column in the portfolio ledger, so transcription is mechanical and nothing gets quietly re-decided after the fact. It is also the line that gets lifted into the monthly letter and, eventually, into a cover letter.
+
+If it does not fit in two lines, the note does not yet have a conclusion.
+
 ---
 
 *Personal research. Not investment advice. Public information only. Views my own and not those of any employer. I do not cover my employer or any affiliated entity.*

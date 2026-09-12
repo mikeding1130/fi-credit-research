@@ -29,6 +29,8 @@ Every note answers five questions in order:
 4. **Three key assumptions.** Each one observable, each with a date on which it can next be tested.
 5. **What would make me wrong.** Specific and falsifiable. "If the macro deteriorates" is not an answer.
 
+Every note then closes with a two-line **investment conclusion**: the action, the instrument, the level, the target, the horizon, the size, and the single condition that would break the call first. Two lines is the limit. A view that cannot be stated in two lines is not yet a view, and one that cannot be checked against a date is not yet falsifiable.
+
 Positions are sized explicitly, and the sizing rationale is written down — a good idea and a large position are two different decisions.
 
 Every closed position gets a post-mortem that asks two independent questions: was the outcome right, and was the process right? Confusing the two is how people abandon a sound method after bad luck, and keep an unsound one after good luck.
